@@ -159,7 +159,7 @@ body {
   /*About Me*/
   .about-section {
     padding: 50px 0;
-    background-color: #f4f4f4; /* Background color for the section */
+    background-color:#c3c7c7; /* Background color for the section */
     text-align: center;
   }
   
@@ -207,6 +207,7 @@ body {
     line-height: 1.5;
     margin-bottom: 100px;
     font-weight:bold;
+    text-align: justify;
   }
   
 
@@ -372,7 +373,7 @@ margin-right: 20px;
 }
 
 .contact{
-  background-color:  #f4f4f4;;
+  background-color: #c3c7c7;
 }
 
 .contact .container{
@@ -413,7 +414,7 @@ margin-right: 20px;
 }
 .content .left-side .details i{
   font-size: 30px;
-  color: #519ca1;
+  color: #306c97;
   margin-bottom: 10px;
 }
 .content .left-side .details .topic{
@@ -432,7 +433,7 @@ margin-right: 20px;
 .content .right-side .topic-text{
   font-size: 20px;
   font-weight: 600;
-  color: #519ca1;
+  color: #306c97;
 }
 
 @media (max-width: 950px) {
@@ -496,7 +497,7 @@ textarea.form-control {
 }
 
 .btn-submit {
-  background-color: #e2b318;
+  background-color: #306c97;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -506,5 +507,5 @@ textarea.form-control {
 }
 
 .btn-submit:hover {
-  background-color: #809399;
+  background-color: #748ea0;
 }
